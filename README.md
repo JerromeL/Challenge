@@ -8,5 +8,6 @@ A concise, descriptive title.
 After completion refactoring the site should be more visible to search engines such as Safari and Google.
 
 Updates made:
--Title Changed
--
+-Title of website changed to Horiseon
+-Cleaned CSS by grouping mulitple lines of recocurring code under concise headers.
+-Changed ALT attributes for image to be more accessible.
